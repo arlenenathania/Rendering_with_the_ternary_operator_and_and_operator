@@ -1,0 +1,2 @@
+# Rendering_with_the_ternary_operator_and_and_operator
+Created with CodeSandbox
